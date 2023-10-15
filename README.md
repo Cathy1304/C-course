@@ -1,2 +1,2 @@
 # C-course
-my code from the c++ course
+my codes from the c++ course
